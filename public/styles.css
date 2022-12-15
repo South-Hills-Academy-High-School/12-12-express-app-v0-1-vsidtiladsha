@@ -39,7 +39,7 @@ h1 {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  clip-path: url('https://upload.wikimedia.org/wikipedia/commons/0/0f/Scandinavian_Snowflake.svg');
+  clip-path: url(#snowLarge);
 color: transparent;
 }
 .circle {
